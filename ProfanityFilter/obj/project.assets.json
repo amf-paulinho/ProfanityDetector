@@ -11,22 +11,23 @@
     "/home/amfpaulo/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "0.0.1",
     "restore": {
       "projectUniqueName": "/home/amfpaulo/_src/ProfanityDetector/ProfanityFilter/ProfanityFilter.csproj",
-      "projectName": "ProfanityFilter",
+      "projectName": "Core.Profanity.Detector",
       "projectPath": "/home/amfpaulo/_src/ProfanityDetector/ProfanityFilter/ProfanityFilter.csproj",
       "packagesPath": "/home/amfpaulo/.nuget/packages/",
       "outputPath": "/home/amfpaulo/_src/ProfanityDetector/ProfanityFilter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+        "/home/amfpaulo/_src/ProfanityDetector/ProfanityFilter/nuget.config",
         "/home/amfpaulo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "https://nuget.pkg.github.com/amf-paulinho/index.json": {}
       },
       "frameworks": {
         "net6.0": {

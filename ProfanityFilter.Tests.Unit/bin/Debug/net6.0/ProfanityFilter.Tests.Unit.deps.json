@@ -8,10 +8,10 @@
     ".NETCoreApp,Version=v6.0": {
       "ProfanityFilter.Tests.Unit/1.0.0": {
         "dependencies": {
+          "Core.Profanity.Detector": "0.0.1",
           "MSTest.TestAdapter": "2.2.8",
           "MSTest.TestFramework": "2.2.8",
           "Microsoft.NET.Test.Sdk": "17.1.0",
-          "ProfanityFilter": "1.0.0",
           "coverlet.collector": "3.1.2"
         },
         "runtime": {
@@ -1077,7 +1077,7 @@
           "System.Xml.ReaderWriter": "4.3.0"
         }
       },
-      "ProfanityFilter/1.0.0": {
+      "Core.Profanity.Detector/0.0.1": {
         "runtime": {
           "ProfanityFilter.dll": {}
         }
@@ -1706,7 +1706,7 @@
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
     },
-    "ProfanityFilter/1.0.0": {
+    "Core.Profanity.Detector/0.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

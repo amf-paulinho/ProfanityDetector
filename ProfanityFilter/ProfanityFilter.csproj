@@ -1,5 +1,16 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
+ <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageId>Core.Profanity.Detector</PackageId>
+    <Version>0.0.1</Version>
+    <Authors>Stephen Haunts</Authors>
+    <Company>GitHub</Company>
+    <PackageDescription>Profanity Filter used to detect or censor text in an application. You can use the inbuilt profanity list, or load up your organizations custom list.</PackageDescription>
+    <RepositoryUrl>https://github.com/amf-paulinho/ProfanityDetector</RepositoryUrl>
+  </PropertyGroup>
+
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>

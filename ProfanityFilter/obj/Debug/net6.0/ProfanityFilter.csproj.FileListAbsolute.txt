@@ -1,15 +1,3 @@
-/home/amfpaulo/chat/back/new/ProfanityDetector/ProfanityFilter/bin/Debug/net6.0/ProfanityFilter.deps.json
-/home/amfpaulo/chat/back/new/ProfanityDetector/ProfanityFilter/bin/Debug/net6.0/ProfanityFilter.dll
-/home/amfpaulo/chat/back/new/ProfanityDetector/ProfanityFilter/bin/Debug/net6.0/ProfanityFilter.pdb
-/home/amfpaulo/chat/back/new/ProfanityDetector/ProfanityFilter/obj/Debug/net6.0/ProfanityFilter.csproj.AssemblyReference.cache
-/home/amfpaulo/chat/back/new/ProfanityDetector/ProfanityFilter/obj/Debug/net6.0/ProfanityFilter.GeneratedMSBuildEditorConfig.editorconfig
-/home/amfpaulo/chat/back/new/ProfanityDetector/ProfanityFilter/obj/Debug/net6.0/ProfanityFilter.AssemblyInfoInputs.cache
-/home/amfpaulo/chat/back/new/ProfanityDetector/ProfanityFilter/obj/Debug/net6.0/ProfanityFilter.AssemblyInfo.cs
-/home/amfpaulo/chat/back/new/ProfanityDetector/ProfanityFilter/obj/Debug/net6.0/ProfanityFilter.csproj.CoreCompileInputs.cache
-/home/amfpaulo/chat/back/new/ProfanityDetector/ProfanityFilter/obj/Debug/net6.0/ProfanityFilter.dll
-/home/amfpaulo/chat/back/new/ProfanityDetector/ProfanityFilter/obj/Debug/net6.0/refint/ProfanityFilter.dll
-/home/amfpaulo/chat/back/new/ProfanityDetector/ProfanityFilter/obj/Debug/net6.0/ProfanityFilter.pdb
-/home/amfpaulo/chat/back/new/ProfanityDetector/ProfanityFilter/obj/Debug/net6.0/ref/ProfanityFilter.dll
 /home/amfpaulo/_src/ProfanityDetector/ProfanityFilter/bin/Debug/net6.0/ProfanityFilter.deps.json
 /home/amfpaulo/_src/ProfanityDetector/ProfanityFilter/bin/Debug/net6.0/ProfanityFilter.dll
 /home/amfpaulo/_src/ProfanityDetector/ProfanityFilter/bin/Debug/net6.0/ProfanityFilter.pdb
